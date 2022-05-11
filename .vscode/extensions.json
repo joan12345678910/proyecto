@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "hookyqr.beautify",
+        "coenraads.bracket-pair-colorizer",
+        "ritwickdey.liveserver",
+        "esbenp.prettier-vscode"
+    ]
+}
