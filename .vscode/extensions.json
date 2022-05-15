@@ -3,6 +3,7 @@
         "hookyqr.beautify",
         "coenraads.bracket-pair-colorizer",
         "ritwickdey.liveserver",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "HookyQR.beautify"
     ]
 }
